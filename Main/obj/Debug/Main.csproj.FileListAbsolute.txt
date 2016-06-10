@@ -1,0 +1,15 @@
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\Main.exe.config
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\Main.exe
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\Main.pdb
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\Data.dll
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\EntityFramework.dll
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\Data.pdb
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\EntityFramework.xml
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\obj\Debug\Main.exe
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Main\obj\Debug\Main.pdb

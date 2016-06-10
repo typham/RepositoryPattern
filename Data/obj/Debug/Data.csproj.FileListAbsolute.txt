@@ -1,0 +1,9 @@
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\bin\Debug\Data.dll.config
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\bin\Debug\Data.dll
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\bin\Debug\Data.pdb
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\bin\Debug\EntityFramework.dll
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\bin\Debug\EntityFramework.xml
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\obj\Debug\Data.dll
+C:\Users\ty\Documents\Visual Studio 2015\Projects\Main\Data\obj\Debug\Data.pdb
